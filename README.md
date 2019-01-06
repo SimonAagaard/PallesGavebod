@@ -24,4 +24,5 @@ Websitet skal benytte sig af et web ap som tilbyder følgende metoder:
 1. En metode, der kan give en oversigt over alle gave objekter.
 2. En metode, der kan returnere et bestemt gaveobjekt angivet med GiftNumber
 3. En metode, der kan returnere gaver til henholdsvis pige eller dreng
-4. En metode, der op
+4. En metode, der opretter et nyt gaveobjekt med angivelse de nødvendige data (Title,
+Description etc.)
