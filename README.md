@@ -20,7 +20,7 @@ Webløsningen skal tilbyde følgende 3 skærmbilleder/websider
 • Side 2: En side hvor Palle har mulighed for at tilføje nye gaver til sortimentet.
 • Side 3: En præsentation (oversigt) af alle gaver mærket velegnet at give til en pige og
 kun disse
-Websitet skal benytte sig af et web ap som tilbyder følgende metoder:
+Websitet skal benytte sig af et web api som tilbyder følgende metoder:
 1. En metode, der kan give en oversigt over alle gave objekter.
 2. En metode, der kan returnere et bestemt gaveobjekt angivet med GiftNumber
 3. En metode, der kan returnere gaver til henholdsvis pige eller dreng
